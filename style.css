@@ -1,0 +1,12 @@
+  hr {
+    border: solid;
+    height: 10px;
+    background-color: #1f889d;  /* Modern Browsers */
+  }
+
+p {
+  margin-top: 5px;
+  margin-bottom: 1px;
+  margin-right: 5px;
+  margin-left: 10px;
+}
