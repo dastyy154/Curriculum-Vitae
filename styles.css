@@ -8,12 +8,6 @@ body {
     padding: 15px;
 }
 
-hr {
-    border: 0;
-    border-top: 3px solid black;
-    margin-bottom: 20px;
-}
-
 header {
     margin-bottom: 20px;
 }
@@ -55,6 +49,12 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+hr {
+    border: 0;
+    border-top: 3px solid black;
+    margin-bottom: 20px;
 }
 
 #links img {
